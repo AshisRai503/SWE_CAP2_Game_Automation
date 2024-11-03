@@ -358,5 +358,5 @@ Pathfinding: To make the drone move efficiently across each tile, I used a zigza
 Conditional Logic: I set conditions for specific crops, like spacing trees properly to ensure they grew without interference.
 ## References
 List any resources, articles, or libraries you used or referenced while working on this project.
-1. [Resource 1 Title](URL)
-2. [Resource 2 Title](URL)
+1. https://youtu.be/p9B7MQ_42p8?si=csXP7sBWOB94wJaI
+2. https://youtu.be/gmJ357XAAdE?si=RPZHvF71jDYVYmVZhttps://youtu.be/gmJ357XAAdE?si=RPZHvF71jDYVYmVZ
