@@ -353,8 +353,8 @@ Pathfinding and Resource Management As you progress higher in skills, I found ou
 Advanced Timing and Conditions: Most crops are at different times for water and harvest, and you need to program the drone to manage them in concert, using conditions such as soil quality and plant health. It will be even more intensive when you unlock more and more types of plants, with the need to juggle several routines for different crops.
 Unlocked Various Commands: We need to make choices between when to invest in upgrades and when to save resources, as usually upgrades mean some costs that hit the efficiency of our farm in the short run.
 ## Learnings
-While playing The Farmer Was Replaced, I learned a few key programming methods and algorithms:
-Pathfinding: To make the drone move efficiently across each tile, I used a zigzag traversal to cover all necessary spots without revisiting.
+While playing The Farmer Was Replaced, I learned a few key programming methods and algorithms,
+Pathfinding, To make the drone move efficiently across each tile, I used a zigzag traversal to cover all necessary spots without revisiting.
 Conditional Logic: I set conditions for specific crops, like spacing trees properly to ensure they grew without interference.
 ## References
 List any resources, articles, or libraries you used or referenced while working on this project.
